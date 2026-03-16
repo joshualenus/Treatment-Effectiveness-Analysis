@@ -74,8 +74,3 @@ This chart shows the average change in test scores grouped by session count:
 - Structured rehabilitation improves outcomes across multiple functional domains.  
 - Consistent session participation (around 10–11 sessions) maximises recovery.  
 - Data-driven insights can guide rehabilitation programme design and individual patient care.
-
----
-
-## Author
-**Joshua**
